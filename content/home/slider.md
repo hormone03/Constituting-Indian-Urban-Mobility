@@ -15,34 +15,51 @@ design:
 
 content:
   slides:
-    - title: 👋 Welcome to the group
-      content: Take a look at what we're working on!
+    - title: #👋 Welcome to the group
+      content: #Take a look at what we're working on!
       align: center
       background:
         position: right
         color: '#666'
-        brightness: 0.7
+        brightness: 0.9
         media: coders.jpg
         #fit: cover
-    - title: Waiting for bus after work can be frastrating! 
+    - title: #Waiting for bus after work can be frastrating! 
       content:
       align: left
       background:
         position: center
         color: '#555'
-        brightness: 0.7
+        brightness: 0.9
         media: contact.jpg
-    - title: Constituting Indian Urban Mobility
+    - title: #👋 Welcome to the group
+      content: #Take a look at what we're working on!
+      align: center
+      background:
+        position: right
+        color: '#666'
+        brightness: 0.9
+        media: Slide4.jpg
+    - title: #👋 Welcome to the group
+      content: #Take a look at what we're working on!
+      align: center
+      background:
+        position: right
+        color: '#666'
+        brightness: 0.9
+        media: Slide5.jpg
+        #fit: contain
+    - title: #Constituting Indian Urban Mobility
       content: 
       align: right
       background:
         position: center
         color: '#333'
-        brightness: 0.5
+        brightness: 0.9
         media: welcome.jpg
-      link:
-        icon: graduation-cap
-        icon_pack: fas
-        text: Join Us
-        url: ../contact/
+      #link:
+        #icon: graduation-cap
+        #icon_pack: fas
+        #text: Join Us
+        #url: ../contact/
 ---

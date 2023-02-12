@@ -18,16 +18,16 @@ content:
   email: ciumproject@outlook.com
   phone: #(514)-848-2424 x 4068 (work)
   address:
-    street: S-EV 2255, Engineering, Computer Science and Visual Arts Integrated Complex, 1515 St. Catherine W.
+    street: Concordia University or McGill University
     city: Montréal
     region: Quebec
-    postcode: 'H3G 1M8'
+    postcode: ''
     country: Canada
     country_code: Ca
   coordinates:
     latitude: '45.4948'
     longitude: '-73.5779'
-  directions: Head southeast on Rue Guy toward Rue de la Police (120m), turn left onto Sainte-Catherine O, destination will be on the left. 
+  directions: Montréal is the largest city in Canada's Québec province. It’s set on an island in the Saint Lawrence River and named after Mt. Royal, the triple-peaked hill at its heart. Its boroughs, many of which were once independent cities, include neighbourhoods ranging from cobblestoned, French colonial Vieux-Montréal – with the Gothic Revival Notre-Dame Basilica at its centre – to bohemian Plateau.
   #office_hours:
     #- 'Monday - Friday: 10:00 to 13:00'
   #appointment_url: 'https://calendly.com/joyouce03'
