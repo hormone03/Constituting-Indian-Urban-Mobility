@@ -14,4 +14,4 @@ design:
 <br>
 
 <small> 
-<p align="justify" style="font-size: 17px"> Constituting Indian Urban Mobility, details coming soon ...</p>  </small>
+<p align="justify" style="font-size: 17px"> Constituting Indian Urban Mobility, details coming soon yyyn ...</p>  </small>
