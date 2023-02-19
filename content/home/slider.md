@@ -19,44 +19,48 @@ content:
       content: #Take a look at what we're working on!
       align: center
       background:
-        position: right
+        position: center
         color: '#666'
         brightness: 0.9
         media: coders.jpg
         #fit: cover
+        fit: contain
     - title: #Waiting for bus after work can be frastrating! 
       content:
-      align: left
+      align: center
       background:
         position: center
-        color: '#555'
+        color: '#666'
         brightness: 0.9
         media: contact.jpg
+        fit: contain
     - title: #👋 Welcome to the group
       content: #Take a look at what we're working on!
       align: center
       background:
-        position: right
+        position: center
         color: '#666'
         brightness: 0.9
         media: Slide4.jpg
+        fit: contain
     - title: #👋 Welcome to the group
       content: #Take a look at what we're working on!
       align: center
       background:
-        position: right
+        position: center
         color: '#666'
         brightness: 0.9
         media: Slide5.jpg
-        #fit: contain
+        fit: contain
     - title: #Constituting Indian Urban Mobility
       content: 
-      align: right
+      align: center
       background:
         position: center
         color: '#333'
         brightness: 0.9
         media: welcome.jpg
+        fit: contain
       #link:
         #icon: graduation-cap
         #icon_pack: fas
