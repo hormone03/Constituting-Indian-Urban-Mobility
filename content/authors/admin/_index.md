@@ -66,7 +66,7 @@ highlight_name: false
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-  - Principal Investigators
+  - Investigators
 ---
 <p align="justify">I am currently an Associate Professor and Chair of the Centre for Engineering in Society in the Gina Cody School of Engineering and Computer Science at Concordia University.</p>
 
