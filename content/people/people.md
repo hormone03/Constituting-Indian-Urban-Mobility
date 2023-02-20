@@ -23,6 +23,7 @@ content:
     - Visitors
     - Alumni
     - Collaborators
+    - Mentors and Partners
 design:
   show_interests: false
   show_role: true
