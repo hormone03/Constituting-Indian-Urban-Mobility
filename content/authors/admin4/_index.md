@@ -65,7 +65,7 @@ highlight_name: false
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-  - Principal Investigators
+  - Investigators
 ---
 <p align="justify">Craig Townsend currently teaches undergraduate courses in the Department of Geography, Planning and Environment on urban transportation and public infrastructure finance for planners. He obtained a professional master’s of planning degree from the University of Calgary. He studied the potential for implementation of travel demand management measures in Bangkok as a graduate student, and then worked on foreign assistance in planning projects based in Thailand’s central planning agency for three years. He then researched and wrote a doctoral thesis comparing the politics and policies shaping urban transport systems in Bangkok, Kuala Lumpur, and Singapore at Murdoch University’s Institute for Sustainability and Technology Policy in Perth, Western Australia. 
 

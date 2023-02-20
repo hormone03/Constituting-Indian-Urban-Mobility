@@ -65,7 +65,7 @@ highlight_name: false
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-  - Principal Investigators
+  - Investigators
 ---
 <p align="justify">I teach in the School of Urban Planning and the Bieler School of Environment at McGill University. I am also a core faculty member in the inter-disciplinary inter-faculty BA&Sc programme in Sustainability, Science and Society at McGill.</p>
 

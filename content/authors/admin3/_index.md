@@ -68,7 +68,7 @@ highlight_name: false
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-  - Principal Investigators
+  - Investigators
 ---
 <p align="justify">My research agenda, broadly focusing on everyday livelihoods in Asia, argues that if we study how people make a living in a specific cultural and social environment – say, Muslim, Bugis small-scale traders in eastern Indonesia, or highland Hmong ethnic minority semi-subsistence farmers in Northern Vietnam – we find that people’s decisions are not always what outsiders, be they local government officials, aid agencies, or academics, think they would or should be. Yet these choices are often entirely rational to local people because of their own understandings of what success and development are, and their precise knowledge of the local context. If outsiders in their capacities as government policy makers, directors of aid programmes, or academics informing the former do not understand and come to acknowledge this, there are serious implications for the very people we aim to understand, discuss, and support. My research therefore strives to anchor development thinking and practice in the day-to-day realities and aspirations of local people who often find it difficult to ‘have a voice’ given their own political, cultural or economic positions.
 </p>
