@@ -1,6 +1,6 @@
 ---
 title: Episode 2 - On The Polictics of Urban Infrastructure, Cars and Decongesting Bengaluru
-date: 2022-12-30
+date: 2022-09-13
 ---
 
 Congratulations to Concordia University Yearbook, 1983 teams.
