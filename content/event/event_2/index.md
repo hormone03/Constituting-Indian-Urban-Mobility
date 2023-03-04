@@ -1,6 +1,6 @@
 ---
-title: Upcoming visit by Dr. Manisha Anantharaman
-date: '2023-03-17T14:00:00Z'
+title: Upcoming writing workshop on mobility transition
+date: '2023-06-01T14:00:00Z'
 event: 
 location: Concordia University
 address:
